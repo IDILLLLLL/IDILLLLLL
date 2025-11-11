@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**IDILLLLLL/IDILLLLLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Saya Idil Akbar, mahasiswa Universitas DIPA Makassar yang sedang belajar web development.
 
-Here are some ideas to get you started:
+## 📊 Coding Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 🛠️ Tech Stack
+- PHP, Laravel
+- JavaScript
+- MySQL
+- VS Code
+
+## 📫 Connect with Me
+- Instagram: [@idilakbar](https://www.instagram.com/idilakb?igsh=emFnY2IwbG92aGFs)
+- Website: [idil.vercel.app](https://idil.vercel.app)
