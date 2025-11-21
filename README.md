@@ -8,15 +8,15 @@ Saya Idil Akbar, mahasiswa Universitas DIPA Makassar yang sedang belajar web dev
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2025 - To: 19 November 2025
+From: 13 November 2025 - To: 20 November 2025
 
-Total Time: 4 hrs 31 mins
+Total Time: 2 hrs 16 mins
 
-PHP              2 hrs 51 mins   >>>>>>>>>>>>>>>>---------   63.15 %
-Blade Template   1 hr 17 mins    >>>>>>>------------------   28.48 %
-Bash             22 mins         >>-----------------------   08.28 %
-Git Config       0 secs          -------------------------   00.06 %
-Markdown         0 secs          -------------------------   00.02 %
+PHP              1 hr 27 mins    >>>>>>>>>>>>>>>>---------   64.32 %
+Blade Template   25 mins         >>>>>--------------------   18.98 %
+Bash             22 mins         >>>>---------------------   16.53 %
+Git Config       0 secs          -------------------------   00.12 %
+Markdown         0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
